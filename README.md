@@ -1,4 +1,4 @@
-# magic_8_ball
+# Magic 8 Ball
 
 Give you the answers to all the tricky questions in life
 
